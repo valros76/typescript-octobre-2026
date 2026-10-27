@@ -1,0 +1,15 @@
+string : Chaîne de caratères - new String()
+
+number : Valeur numérique
+
+array : Tableau / Liste de données - [] - new Array()
+
+object : Représente un objet - {} - new Object()
+
+Symbol : Réprésente une donnée unique
+
+BigInt : Représente les grands nombres - Notation scientifique - 0126445n - new BigInt()
+
+boolean : Représente un booléen - true/false
+
+function : Représente une fonction
